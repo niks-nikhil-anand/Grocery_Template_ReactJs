@@ -12,3 +12,8 @@ body {
   overflow-x: hidden;
   font-family: 'Plus Jakarta Sans', sans-serif !important;
 }
+
+.sm:max-h-6 max-h-5 my-auto cursor-pointer {
+height: 300px;
+width: 120px;
+}
