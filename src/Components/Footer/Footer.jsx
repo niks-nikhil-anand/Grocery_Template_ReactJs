@@ -99,7 +99,7 @@ const Footer = () => {
             <div>
                 <hr className='border-gray-600' />
                 <div className='text-center flex items-center h-12'>
-                    <span className='text-xs  w-full block text-gray-300 tracking-wider'>© 2024 Developed By <a className='hover:underline' href="https://2solution.in" target="_blank" rel="noopener noreferrer"> Nishant Raj </a></span>
+                    <span className='text-xs  w-full block text-gray-300 tracking-wider'>© 2024 Developed By <a className='hover:underline' href="https://2solution.in" target="_blank" rel="noopener noreferrer"> 2Solution </a></span>
                 </div>
             </div>
         </footer>
